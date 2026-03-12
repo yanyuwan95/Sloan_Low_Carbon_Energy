@@ -4,8 +4,8 @@ Public-facing website for the project on trust, communication, and low-carbon en
 
 ## View The Project Page
 
-- Live site (GitHub Pages): [https://yanyuwan95.github.io/Sloan_Low_Carbon_Energy/](https://yanyuwan95.github.io/Sloan_Low_Carbon_Energy/)
-- Preview directly from this repo: [Open `index.html`](https://htmlpreview.github.io/?https://github.com/yanyuwan95/Sloan_Low_Carbon_Energy/blob/main/index.html)
+- Open now (works immediately): [Project page preview](https://htmlpreview.github.io/?https://github.com/yanyuwan95/Sloan_Low_Carbon_Energy/blob/main/index.html)
+- GitHub Pages URL (works after publishing): [https://yanyuwan95.github.io/Sloan_Low_Carbon_Energy/](https://yanyuwan95.github.io/Sloan_Low_Carbon_Energy/)
 
 ## Enable GitHub Pages (one-time)
 
@@ -16,4 +16,4 @@ Public-facing website for the project on trust, communication, and low-carbon en
    - Branch: `main` and `/ (root)`
 4. Save, then wait for deployment to complete.
 
-After deployment, the live link above will load the project page for all visitors.
+After deployment, the GitHub Pages URL above will load the project page for all visitors.
